@@ -1,2 +1,2 @@
-# fnbx-test1
-First Repository
+# FUNB10X
+print("Hello World")
