@@ -1,5 +1,5 @@
 # FUNB10X
-print("Hello World")
+Hello World!
 
 My Project
 -------------------------
@@ -13,3 +13,5 @@ Preview Video : https://youtu.be/McLT8qjBYq8
 Ben10 Last Defense (Hamster Hub Intelligence Camp) (14-16 March 2026)
 
 Github Page : https://github.com/FUNB10X/BEN10-Last-Defense
+
+Download Link : https://github.com/FUNB10X/BEN10-Last-Defense/releases/tag/FUNB10X
